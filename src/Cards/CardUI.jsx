@@ -11,7 +11,7 @@ const Card = props => {
                 <h4 className="card-title">Card Title</h4>
                 <p className="card-text text-secondary">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam numquam quis quibusdam, quasi optio recusandae eligendi provident neque quisquam voluptas.
-                    <a href="#" className='btn btn-outline-success'>Go Anywhere</a>
+                    <a href="#" className='btn btn-outline-success'>Saiba mais</a>
                 </p>
             </div>
         </div>
