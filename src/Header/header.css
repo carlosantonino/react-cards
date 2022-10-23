@@ -1,0 +1,25 @@
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: green;
+    color: white;
+}
+
+header > h1 {
+    padding-left: 30px;
+}
+
+header > ul {
+    display: flex;
+    flex-direction: row;
+    padding-right: 40px;
+    margin-top: 50px;
+
+}
+
+ul li {
+    list-style: none;
+    padding-left: 15px;
+}
