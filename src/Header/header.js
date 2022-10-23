@@ -6,9 +6,9 @@ export default function Header() {
         <header>
                 <h1>Logo</h1>
                 <ul>
-                    <li>Inicio</li>
-                    <li>Sobre</li>
-                    <li>Contato</li>
+                    <li><a href='/'>Inicio</a></li>
+                    <li><a href='/'>Sobre</a></li>
+                    <li><a href='/'>Contato</a></li>
                 </ul>
         </header>
     )

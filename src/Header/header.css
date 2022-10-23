@@ -21,5 +21,18 @@ header > ul {
 
 ul li {
     list-style: none;
-    padding-left: 15px;
+    margin-left: 15px;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+}
+
+ul li a:hover {
+    color: green;
+    background-color: white;
+    padding: 10px;
 }
